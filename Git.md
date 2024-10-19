@@ -1,4 +1,4 @@
-# **Version using Git and the command line**
+r# **Version using Git and the command line**
 
 ## **Working Directory**
 
@@ -56,7 +56,7 @@ ask to roll back filename to the last version
 
 **GitHub and remote repository**
 
-git remote add origin **URL of our remote repository on GitHub**
+`git remote add origin **URL of our remote repository on GitHub`
 
 깃허브에 로칼 레포지토리 리모트하기
 
